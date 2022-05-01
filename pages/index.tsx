@@ -57,10 +57,13 @@ const Home: NextPage = () => {
           <InlineLink href={portfolioLink}>this presentation</InlineLink>.
         </BodyText>
         <BodyText>
-          At the moment I’m redoing my website so there might not be much to see
-          here. If you’re looking for examples of my work then feel free to take
-          a look at{' '}
-          <InlineLink href={portfolioLink}>this presentation</InlineLink>.
+          I love coffee and chatting about design. If you do too or want to know
+          more about me and my work then find me on{' '}
+          <InlineLink href={linkedInLink}>LinkedIn</InlineLink> or send me an
+          email at{' '}
+          <InlineLink href="mailto:klovborg@gmail.com">
+            klovborg@gmail.com
+          </InlineLink>
         </BodyText>
       </Stack>
     </>
